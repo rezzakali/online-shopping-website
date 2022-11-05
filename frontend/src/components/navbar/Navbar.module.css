@@ -1,0 +1,14 @@
+.nav a {
+  text-decoration: none;
+  color: black;
+}
+.toggler:focus,
+.toggler:active,
+.toggler-icon:focus {
+  outline: none;
+  box-shadow: none;
+}
+.link {
+  margin: 10px;
+  padding: 3px;
+}

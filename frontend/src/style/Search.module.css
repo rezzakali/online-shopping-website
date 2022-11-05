@@ -1,0 +1,10 @@
+.search_input:active,
+.search_input:focus {
+  border: 1px solid gray;
+  outline: none;
+  box-shadow: none;
+}
+.formInput {
+  margin: 25px;
+  width: 200px;
+}
